@@ -1,6 +1,6 @@
 # Welcome to Plot!
 
-Super-simple plotting library, firmer part of [Ironic](https://github.com/Meta-chan/ironic_library). All you need to know is:
+Super-simple plotting library, former part of [Ironic](https://github.com/Meta-chan/ironic_library). All you need to know is:
 
 ```c++
 Plot p;
